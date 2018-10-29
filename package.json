@@ -1,0 +1,15 @@
+{
+  "name": "kots-slots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "Dylan Harness <dharness.engineer@gmail.com> (dharness.github.io)",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "1.10.3"
+  }
+}
