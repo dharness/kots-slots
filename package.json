@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "serve": "parcel index.html",
-    "build": "parcel build index.html --public-url ./"
+    "build": "parcel build index.html --public-url ./ -d docs"
   },
   "keywords": [],
   "author": "Dylan Harness <dharness.engineer@gmail.com> (dharness.github.io)",
